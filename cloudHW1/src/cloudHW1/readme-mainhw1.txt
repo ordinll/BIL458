@@ -13,6 +13,8 @@ Compound Interest Calculator
 + Future Value is printed with a 2 digit decimal precision, only the first two digits of the double value will be shown.
 + Money kept is added on top of the Present Value, like shown in the example below.
 
+
+
 + Example Output-1 ;
 
 Compound Interest Calculator
